@@ -1,0 +1,72 @@
+[10-May-2016 09:26:43 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/burhanim/public_html/signup1.php on line 7
+[10-May-2016 09:26:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/burhanim/public_html/signup1.php on line 7
+[10-May-2016 09:26:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/burhanim/public_html/signup1.php on line 18
+[10-May-2016 09:26:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/burhanim/public_html/signup1.php on line 19
+[10-May-2016 09:26:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/burhanim/public_html/signup1.php on line 25
+[10-May-2016 09:28:23 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/burhanim/public_html/signup1.php on line 7
+[10-May-2016 09:28:23 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/burhanim/public_html/signup1.php on line 7
+[10-May-2016 09:28:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/burhanim/public_html/signup1.php on line 18
+[10-May-2016 09:28:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/burhanim/public_html/signup1.php on line 19
+[10-May-2016 09:28:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/burhanim/public_html/signup1.php on line 25
+[10-May-2016 09:28:38 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/burhanim/public_html/signup1.php on line 7
+[10-May-2016 09:28:38 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/burhanim/public_html/signup1.php on line 7
+[10-May-2016 09:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/burhanim/public_html/signup1.php on line 18
+[10-May-2016 09:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/burhanim/public_html/signup1.php on line 19
+[10-May-2016 09:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/burhanim/public_html/signup1.php on line 25
+[10-May-2016 19:15:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/appointment4.php:46) in /home/burhanim/public_html/appointment4.php on line 116
+[10-May-2016 19:17:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/appointment4.php:46) in /home/burhanim/public_html/appointment4.php on line 116
+[10-May-2016 19:18:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/appointment4.php:46) in /home/burhanim/public_html/appointment4.php on line 116
+[10-May-2016 19:19:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/appointment4.php:46) in /home/burhanim/public_html/appointment4.php on line 116
+[10-May-2016 19:19:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/appointment4.php:46) in /home/burhanim/public_html/appointment4.php on line 116
+[11-May-2016 06:02:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 122
+[11-May-2016 06:02:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 153
+[11-May-2016 06:03:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 122
+[11-May-2016 06:04:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/seeexpense1.php:46) in /home/burhanim/public_html/seeexpense1.php on line 116
+[11-May-2016 11:03:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/appointment4.php:46) in /home/burhanim/public_html/appointment4.php on line 116
+[12-May-2016 08:15:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 153
+[12-May-2016 09:40:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/seeexpense1.php:46) in /home/burhanim/public_html/seeexpense1.php on line 116
+[13-May-2016 15:08:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 122
+[13-May-2016 15:08:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 153
+[17-May-2016 13:53:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 153
+[17-May-2016 14:37:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 122
+[17-May-2016 14:37:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 153
+[17-May-2016 14:37:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 122
+[17-May-2016 14:37:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 153
+[17-May-2016 16:16:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 122
+[17-May-2016 16:16:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 153
+[19-May-2016 05:29:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 122
+[23-May-2016 11:48:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 122
+[23-May-2016 11:48:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 153
+[23-May-2016 11:49:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/seeexpense1.php:46) in /home/burhanim/public_html/seeexpense1.php on line 116
+[23-May-2016 11:56:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/burhanim/public_html/findpatient1.php on line 86
+[23-May-2016 11:56:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/burhanim/public_html/findpatient1.php on line 91
+[23-May-2016 11:56:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/burhanim/public_html/findpatient1.php on line 92
+[23-May-2016 11:56:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/findpatient1.php:46) in /home/burhanim/public_html/findpatient1.php on line 115
+[23-May-2016 11:56:19 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/burhanim/public_html/findpatient1.php on line 118
+[23-May-2016 11:56:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/burhanim/public_html/findpatient1.php on line 86
+[23-May-2016 11:56:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/burhanim/public_html/findpatient1.php on line 91
+[23-May-2016 11:56:43 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/burhanim/public_html/findpatient1.php on line 92
+[23-May-2016 11:56:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/findpatient1.php:46) in /home/burhanim/public_html/findpatient1.php on line 115
+[23-May-2016 11:56:43 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/burhanim/public_html/findpatient1.php on line 118
+[27-May-2016 18:54:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/burhanim/public_html/findpatient1.php on line 86
+[27-May-2016 18:54:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/burhanim/public_html/findpatient1.php on line 91
+[27-May-2016 18:54:06 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/burhanim/public_html/findpatient1.php on line 92
+[27-May-2016 18:54:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/findpatient1.php:46) in /home/burhanim/public_html/findpatient1.php on line 115
+[27-May-2016 18:54:06 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/burhanim/public_html/findpatient1.php on line 118
+[27-May-2016 18:54:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/burhanim/public_html/findpatient1.php on line 86
+[27-May-2016 18:54:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/burhanim/public_html/findpatient1.php on line 91
+[27-May-2016 18:54:15 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/burhanim/public_html/findpatient1.php on line 92
+[27-May-2016 18:54:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/findpatient1.php:46) in /home/burhanim/public_html/findpatient1.php on line 115
+[27-May-2016 18:54:15 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/burhanim/public_html/findpatient1.php on line 118
+[27-May-2016 18:54:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/burhanim/public_html/findpatient1.php on line 86
+[27-May-2016 18:54:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/burhanim/public_html/findpatient1.php on line 91
+[27-May-2016 18:54:31 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/burhanim/public_html/findpatient1.php on line 92
+[27-May-2016 18:54:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/findpatient1.php:46) in /home/burhanim/public_html/findpatient1.php on line 115
+[27-May-2016 18:54:31 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/burhanim/public_html/findpatient1.php on line 118
+[27-May-2016 18:58:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 122
+[27-May-2016 18:58:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 153
+[27-May-2016 18:58:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 122
+[27-May-2016 18:58:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 153
+[27-May-2016 18:58:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 122
+[27-May-2016 18:58:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/todayrevenue.php:47) in /home/burhanim/public_html/todayrevenue.php on line 153
+[28-May-2016 20:12:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/burhanim/public_html/seeexpense1.php:46) in /home/burhanim/public_html/seeexpense1.php on line 116
